@@ -4,3 +4,6 @@
 ## Clasificación Lineal:
     Implementación propia del algoritmo KNN para clasificación de muestras entre 3 clases.
     Comparación de resultados con el KNN de Sklearn.
+## Perceptrón Simple:
+    Implementación propia de una neurona o perceptrón aplicado como clasificador binario.
+    Comparación de resultados con el perceptrón de Sklearn.

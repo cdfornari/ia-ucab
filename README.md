@@ -7,3 +7,5 @@
 ## Perceptrón Simple:
     Implementación propia de una neurona o perceptrón aplicado como clasificador binario.
     Comparación de resultados con el perceptrón de Sklearn.
+## Feed Forward:
+    Implementación propia de una red neuronal con 2 neuronas en la capa de entrada, 3 en la capa oculta y 1 en la capa de salida para hacer un clasificador no lineal.

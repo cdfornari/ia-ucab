@@ -14,3 +14,5 @@
     Implementación de una red recurrente usando Tensorflow con 1 neurona en la capa de entrada, 4 en la capa oculta y 1 en la capa de salida para hacer un clasificador no lineal para predecir valores generados por y = sen(x).
 ## Text Prediction:
     Implementación de una red recurrente Long Short Term Memory (LSTM) usando Tensorflow para predecir y generar texto.
+## Image Classification:
+    Implementación de una red neuronal convolucional usando Tensorflow para clasificar imágenes de 10 clases del dataset KMNIST.
